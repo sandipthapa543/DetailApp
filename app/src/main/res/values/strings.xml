@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DetailApp</string>
+    <string name="txt_name">Enter Name</string>
+</resources>
